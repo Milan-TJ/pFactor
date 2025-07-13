@@ -1,0 +1,23 @@
+# Virtual environment
+env/
+__pycache__/
+*.pyc
+
+# SQLite database
+db.sqlite3
+
+# Django stuff
+*.log
+*.pot
+*.py[cod]
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# Migrations cache
+*/migrations/__pycache__/
+
+# Static/media files (if using)
+staticfiles/
+media/
